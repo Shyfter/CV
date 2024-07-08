@@ -242,3 +242,13 @@ margin-top: -10px;
 .languages {
     margin:25px 0 0 15px;
 }
+
+.contacts-container > div > img {
+    width: 20px;
+}
+
+.contacts-container > div {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
