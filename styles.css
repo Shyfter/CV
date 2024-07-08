@@ -252,3 +252,11 @@ margin-top: -10px;
     align-items: center;
     margin-top: 10px;
 }
+
+.contacts-container > div > a {
+    text-decoration: none;
+}
+
+.highschool-name {
+    font-size: 18px;
+}
